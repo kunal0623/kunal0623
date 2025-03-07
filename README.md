@@ -1,8 +1,8 @@
 # Hi 💫 I'm K Ravindra Saibaba Veeraraghava Raju Lolabhattu
-I hold a **Master’s in Computer Science from Kent State University with a 3.9/4 GPA. With 3+ years of experience in backend development, I have built and optimized scalable applications using **☕ Java, 🔵 Go, and 🌀 Spring Boot**, specializing in **API development, ☁️ cloud integration (Azure), and 🔄 ETL pipelines**. My expertise includes **📊 database optimization, 🚀 CI/CD automation, and 🏗️ microservices architecture**.  <br><br>**🔹 Key Skills**  <br>✅ **Programming:** ☕ Java | 🔵 Go | 🐍 Python | 🗄️ SQL  <br>✅ **Backend & Frameworks:** 🌀 Spring Boot | 🏛️ Hibernate | 🌐 RESTful APIs | 🏗️ Microservices  <br>✅ **Cloud & DevOps:** ☁️ Azure | ⚙️ CI/CD | 🔄 Informatica Cloud (IICS)  <br>✅ **Data Processing:** 📊 ETL Pipelines | 📌 SQL Optimization  <br>✅ **Tools & Methodologies:** 🔄 Git | 🚀 Agile | 📌 Scrum | 📨 RabbitMQ  <br><br>I am passionate about **developing high-performance solutions** that drive **efficiency, innovation, and technical excellence**. 🚀
+I hold a Master’s in Computer Science from Kent State University with a 3.9/4 GPA. With 3+ years of experience in backend development, I have built and optimized scalable applications using **☕ Java, 🔵 Go, and 🌀 Spring Boot**, specializing in **API development, ☁️ cloud integration (Azure), and 🔄 ETL pipelines**. My expertise includes **📊 database optimization, 🚀 CI/CD automation, and 🏗️ microservices architecture**.  <br><br>**🔹 Key Skills**  <br>✅ **Programming:** ☕ Java | 🔵 Go | 🐍 Python | 🗄️ SQL  <br>✅ **Backend & Frameworks:** 🌀 Spring Boot | 🏛️ Hibernate | 🌐 RESTful APIs | 🏗️ Microservices  <br>✅ **Cloud & DevOps:** ☁️ Azure | ⚙️ CI/CD | 🔄 Informatica Cloud (IICS)  <br>✅ **Data Processing:** 📊 ETL Pipelines | 📌 SQL Optimization  <br>✅ **Tools & Methodologies:** 🔄 Git | 🚀 Agile | 📌 Scrum | 📨 RabbitMQ  <br><br>I am passionate about **developing high-performance solutions** that drive **efficiency, innovation, and technical excellence**. 🚀
 
 
-## 🌐 Socials:
+## 🌐 You can connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kunal026688) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kunal.raju.73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kveeraraghava-l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal.raju1997@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,9 +15,9 @@ I hold a **Master’s in Computer Science from Kent State University with a 3.9/
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunal0623&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<> ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kunal0623&limit=5&theme=react&combine_all_yearly_contributions=true)
-
+<>
 ---
 [![](https://visitcount.itsvg.in/api?id=kunal0623&icon=0&color=0)](https://visitcount.itsvg.in)
 
